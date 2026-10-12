@@ -1,0 +1,111 @@
+# Setup Claude Better Than 99% Of People (Full Setup File)
+
+Full transcript of the video. Spelling checked; um and uh left out.
+
+Whether you're a beginner or a pro, this Claude tutorial and template will supercharge your workflow in just one line. When you're starting to use Claude, it has no idea who you are, what your company does, what rules it should follow, and where should it put all the files that it's creating. But with my setup template, it's gonna fix all that in just under 10 minutes for you. If you don't know me, my name is David Bitton, and I'm a five-time entrepreneur that's generated hundreds of millions in revenue. A TEDx speaker, best-selling author, and AI educator for companies and classrooms worldwide.
+
+And if you're not already, make sure to hit that subscribe button for more AI tutorials. In this video, we're gonna cover setting up Claude, Organizing your files and folders on your computer, creating rules, memory files, connectors, skills, and a lot more, and helping you go from beginner to pro and mastering Claude. So to get started, I want you to do a little experiment. Open up your Claude, start a new session, and just type in this prompt. Who am I, and what does my company do?
+
+What rules do you follow, and where do you remember things? And send that, and let's see what it says. So, it doesn't know much about me yet, the memory's empty, there are no global rule files, I assume your name is David from your Mac username, and that is pretty much it. But by the end of this video, you're gonna have everything set up perfectly. For those that are brand new to Claude or you've never used it before, just go to claude.com slash download and download Claude for the Mac or PC.
+
+Once you get it installed, you're going to want to go into Claude and use Claude Code. So, you may be tempted to go over here and just start chatting with it or clicking on Cowork or whatever your view might look like today. However... The one thing I'm gonna tell you right now is always click on this icon in the top left of the screen and click on Code, so you use Claude Code. You don't have to be a coder, developer, I'm not, but you still will use this because it's way more powerful than using the other version.
+
+It could do anything on your computer versus Claude Cowork or chat that gets stuck from time to time. If you are not able to click on the Code tab, it means that you need to upgrade your plan and subscribe. So I highly recommend going to Settings and Claude, going to Billing, and then Upgrading Your Plan. They will push you, by default, to select the yearly plan, but you can click the Monthly tab. And just start for $20 a month.
+
+That's what I recommend. All your plans are exactly the same. They just give you more usage. But if you're not hitting your limits, stick to the $20 a month, and now you can use Claude Code. So on the bottom of this video is going to be a link to download my Claude setup template file.
+
+So once you download that file, there's going to be a zip file on your computer, and this works on both Mac or PC. And you're going to double click on it. To extract the files. And you're gonna see a folder called Claude Setup Template. And inside that folder, you're gonna have the readme instructions, but this is for Claude, not for you.
+
+You've got Claude folders, which we'll talk about. This is gonna set up your folders perfectly on your computer. And you've got the actual setup files for Claude to follow. And it's really gonna be following these Claude instructions. And as you see, we have instructions for Mac and instructions for PC as well.
+
+So we're going to start a new Claude Code session. So if you're over here, you're going to click on the Code button and click on New. And you're going to paste in the prompt I gave you and hit Enter. And it's going to start setting up your computer perfectly. With this setup file, it's going to create a Claude folder in your Documents folder that looks just like this.
+
+And it's going to create a few different folders in here. First, is a file called CLAUDE.md, which is just like an instruction file. An MD file is a markdown file, which is the same thing, like a text file, a doc file, txt, .doc, same thing. It's just called a markdown, and AI likes to use it. So if you open it up, you're gonna see it just has...
+
+Some rules, it's just letting it know, hey, this is my main file, keep everything organized. Don't just put files wherever you feel like it, right? The next one is going to be the context folder. And if you open it up, you're going to see there is a company folder and a personal folder, and once again, another CLAUDE.md file. So almost in every one of these folders, I have this file.
+
+Because every time Claude goes into a folder, it has to read, it must read these instructions and rules, which tells it what to do and what to follow. These folders, company and personal, are going to be empty for now, besides the CLAUDE.md file, of course, because it doesn't know anything about you yet. But, part of the setup process, Claude will start interviewing you and ask you a bunch of questions. Who are you? What company do you work for?
+
+Give me your website, LinkedIn, everything. And it's gonna start filling in all the information here. So every time you start a new chat or session in Claude, it's gonna look in these files and know everything about you. One quick pro tip. It's gonna automatically install this Claude folder in your Documents folder.
+
+However, if you use Google Drive, or Dropbox, or OneDrive, or any other file storage system, you're gonna wanna tell Claude to install or move this folder into that folder, the Google Drive or the Dropbox folder. Why? So everything always stays in sync. You never want to lose your work. If the computer crashes, who cares?
+
+Everything's stored in the cloud. And you could also access your files from different computers, devices, your phone, your tablet, whatever you want. Cool. Another pro tip, if you are working in a company and you want to share the company context folder, remember, so you have context. And you have the company folder.
+
+I would put this folder also in a shared Google Drive, Notion, Dropbox folder that your company uses. So everyone in your company doesn't need to use their own company folder. You can all share one company folder together. So imagine... All of your Claude's are like in sync.
+
+It knows everything about you. And by the way, that's called a second brain. Very simple. It just adds all the folders, so, and files, so everyone can be in sync. Cool.
+
+All right. Next up, you have a memory folder. This folder is going to contain a few different files. One is a company file. Once again, it's empty, but it's going to fill it out eventually after the interview.
+
+You also have a personal file, same thing, it's also going to fill this out. This is what we are forcing Claude to save into its memory for every future session. You have MCP connectors. What is that? So, MCP...
+
+Or, CLI is another word for API. Now, if I'm losing you, what that means is, it's just another way of saying, it's a connector into Claude. If you ever want to connect or sync any tool, Gmail, Google Drive, Google Calendar, OneDrive, Dropbox, Google anything, into Claude, it will use one of these different type of connectors, MCP, CLI, or API, generally. Right? So this is a file that just gives it instructions.
+
+Anytime you use connectors, make sure you use them in this way. Efficiently, you don't save secrets anywhere. That's sort of the idea. All right, cool. You have another folder called HTML files, which will give you my personal template.
+
+For every time Claude has to build you something or show you something, you want it to force it to show it as an HTML file, so it looks like this. Basically a nice template, so every single time it builds you something, it always looks the same. This is my template, but you can of course customize it if you want to. Alright, and next up in the folder... We have routines.
+
+I'm not gonna get into all these things, but routines is basically more instructions anytime you want Claude to automate something for you on a schedule or a routine. Every morning at 8 a .m., check my email and reply to my, and reply to the emails for me or create drafts for me. Use this file to help build that, to make it really organized. This is the self-improvement, actually one of the most important files. Any time you are doing something and correcting Claude, this will tell Claude, stop, self-improve, and update my memory files, my skills, we'll get into that later, to make sure you never make that same mistake again.
+
+And last but not least... You have a website crawling file, very important. Anytime you tell Claude to do research online, or you ask it a question and it has to research online, a lot of times it might get stuck, blocked by the sandbox or the firewall, or they have blots that are blocking them, this will go around it. So, pretty much, these are my personal memory files that I've worked on for months and months and months.
+
+And now I'm giving them to you all for free, so enjoy that. Next folder is scheduled. This is going to be empty, but anytime you have a routine, anything running on a schedule, Claude will add all those files and routines into this folder. And then you have skills and tasks. Tasks.
+
+Remember why I told you that your files are everywhere? So Claude will just dump files wherever it wants on your computer. However, very important, anytime you're working with Claude, you want to work in a specific folder. This could also be renamed to projects if you want. So if I'm working on a new project, let's say YouTube video, right?
+
+That's this video right now. Whenever Claude is creating files for this project, I wanted to put the files in this folder. So how do you do that? Well, you come back into Claude, you click New to start a new session, and over here in the bottom where it says Folder, you're gonna click here, and you're gonna click Open Folder, and select that folder you just created.
+
+So in this case, I'm gonna go to my Documents, Claude, Tasks, YouTube Video, and open up that folder, and I'm gonna click Trust. So anything I'm doing here and I'm working and it's creating files, it's doing it in that organized folder. Great. All right, last but not least, we have our skills folder. One of the, actually no, the number one most important thing you need to master with Claude is how to build your own skills.
+
+So, after this video, go to YouTube or wherever you are and search for how to build my own skill in Claude. You have to master this. But before I go into this folder, what is a skill? So, what you're probably doing now is asking ChatGPT or Claude or AI or whatever tool you're using, do this work for me, right? Reply to my emails, create these reports for me.
+
+And if you have to do it again, what do you do? You probably go back in to that same old chat and you say, do it again. Why? Because that chat has all the history, the memory, the knowledge of everything you did. But, what if I told you, you can take all that knowledge and package it into a repeatable template or a set of instructions.
+
+So you could do that over and over and over again and make it better and improve it for new sessions you are running. And you should not go back into old sessions to keep repeating the work, because the longer the session gets, the more it will forget, it will start hallucinating and making things up, so you generally do not want to do that. So that's what a skill is, a set of instructions. Now remember what I told you about markdown files?
+
+It's the same thing with a skill. It's just a bunch of different markdown files, like a bunch of different text or document files that have instructions in them. So I'm going to give you a few of my favorite ones already in here. And as you'll see, you have a template folder. This will help you create skills perfectly.
+
+So when you do build them, Claude will build them using my template. All right. Process interviewer will interview you if you ever need to ask you a bunch of questions. And humanizer is another skill that allows you to write... Any text, emails, websites, blog posts without AI slop, right?
+
+em dashes or anything like that. So it prevents AI from writing like AI. And the most important skill that we're going to talk about is the skill builder protocol. This is a skill that will help you build the best skills, better than 99 of anyone building skills, almost guaranteed. So, what is in here, and what does it look like?
+
+So, once again, a bunch of different folders and files, but the important one is the SKILL.md file, with a list of instructions of how to build a skill perfectly. and There's also a folder called References, which has even more files and more instructions, right? So you could have one main skill file that references and links to all these other different files. So it's just a bunch of instructions. And guess what?
+
+The more you use it, the better it gets, and you could always keep improving it. Now, you might be asking, cool, how do I use a skill? Well, I'm happy you asked. So once this is all installed, you're gonna go back over to Claude, you're gonna type in the forward slash command, and a bunch of different commands or skills will show up, and you're gonna type in skill, and you should see, after you run the setup file, the skill builder protocol.
+
+And if you do not see it, that means you have to continue the instruction file, but we'll get there in a second. So you could just say, use the skill builder protocol skill to build me a skill that checks my emails daily and drafts replies, right? So that's how you use a skill, basically. Or create a skill to do X, Y, and Z for me. So remember how I told you that you need to give Claude rules to follow?
+
+So you had the CLAUDE.md file in every folder, and those are rules that it follows for each specific folder. But what if you wanted to follow rules for every single session in chat, the same rules? Those are called global rules. So there is a file called the global CLAUDE.md file, and generally... You will not have one.
+
+It won't exist. So this setup file is going to create it for you, and it's going to add my personal favorite instructions and rules. So, just as you see, it's saying, hey, Claude, every time you start a new session, I want you to remember that I have my personal and company memory files here. So make sure you read them if you need to read them. Hey, Claude, don't forget that whenever you're building routines or crawling the internet or doing any of these things or...
+
+Remember, building HTML reports. Always use these memory files that I showed you earlier, right? So, by the way, Claude and AI likes to talk a lot. They just yap and yap and give you information overload. So, over here, I'm saying, do not do that.
+
+Every response should be under 150 words max. And if you need to say more, just say more. And then, if I say more... Then it will give me more. Okay, talk in plain English, right?
+
+How many times does AI give you just jargon that you don't know what it's talking about? So talk like an 18-year-old should understand. And a few more things, if you like, you can read this. self-improvement, save tokens, how to use skills, it's all in here. But now you're wondering, where does it add those rules and how can I edit them?
+
+I'm going to show you. So here we are in Finder for the Mac. But FYI, this entire setup file will also work if you're on a Windows PC computer. But for those Mac users, you can go to your hard drive, you can go to the Users folder, you can click on your username, and it's going to show you your desktop documents, downloads, the standard things, just like in Windows.
+
+But you don't need to do this, but if you want to, hold Command, Shift, And period on your keyboard. And it will show you hidden files and folders. And you're going to have a .Claude folder here. And if you go into here, this is where Claude is going to save all of your folders and files and sessions. If you don't tell it, everything's going to be saved here.
+
+So once again... Command, Shift, and period, and it will now reveal some hidden files and folders. Right now, there is no CLAUDE.md file here, but the setup file will be generating it and putting it here, and this is the master root global CLAUDE.md file that Claude will follow every single time you submit any message, and that's how it remembers. So now it's going to interview you and ask you a bunch of questions about you, as a person, your company that you work for, or your own company, and it's going to start filling in all that information.
+
+And now, at the end of that... You are good to go. Your Claude is turbocharged. So as you see here, I'm giving it my website, but it has to connect to Chrome sometimes to actually pull some information in. So, if you don't have this set up yet, it might tell you to set up Claude in Chrome.
+
+So what you're going to do is you're going to open up Google and just search for Claude for Chrome. And you're going to click on the first listing for the Chrome Web Store. And you're going to click Add to Chrome. Mine says Remove, because I already added it, but Add to Chrome. Once you've added it, it's going to ask you to log in to your Claude account.
+
+You log in, and that's it. Claude is now connected with your Chrome, and if you want to double-check to make sure it's connected, you're going to click your name on the bottom left of Claude. Go to your Settings. And then on the left, this might change based on when you are watching this video, you're gonna click on System on the left, and over here, you're gonna see Connected Browsers, and you should see your browser. If you don't, click Recheck.
+
+If you still don't see it connected in Chrome, you're gonna want to click on the Claude icon in the top toolbar. Which will open it up, and sure enough, you are not logged in. So you have to click on Login, go through the setup, and then log into your Claude account. It's going to ask you to authorize. Click Authorize.
+
+And that's it. You're done. So now, if I go back... You're gonna see that it's telling me, before you start, click I understand. So I understand, next, next, next, I agree, let's go.
+
+And now you are officially connected. And now, Claude is connected to your Chrome browser, so whatever you can do, it can do also. So, to wrap up, let's go back into Claude now, and I'm gonna ask the same question at the beginning. Who am I, and what does my company do? What rules do you follow?
+
+Where do you remember things? And let's see what it tells us now. Here you go. This is you, from the personal memory file. You are David Bitton, Miami entrepreneur.
+
+Blah, blah, blah. Here's your company. Here's the global rules that I have to follow. Where I remember things, right? So congratulations, you are now officially Claude-powered and optimized.
+
+So Claude will remember who you are, remember who your company is, remember the rules you wanted to follow, where to put all the files, and exactly how you want to work with Claude. For more tips, tricks, and setup files and skills just like this, click the subscribe button and get notified when the next video comes out. I'll see you on the next one.
